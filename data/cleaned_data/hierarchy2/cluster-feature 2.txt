@@ -1,0 +1,21 @@
+conne
+conne successfully
+conne vpn
+error
+error say
+invalid
+invalid conne
+password
+password invalid
+pingid
+pingid error
+say
+say password
+successfully
+successfully vpn
+suddenly
+suddenly conne
+use
+use pingid
+vpn
+vpn use

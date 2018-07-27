@@ -1,0 +1,3 @@
+'INC0794452',
+
+[NA] [User has a group that uses an ION email acct that is associated with One PING Id of a person that is absent.  User needs to Associate other Users to this ION Acct

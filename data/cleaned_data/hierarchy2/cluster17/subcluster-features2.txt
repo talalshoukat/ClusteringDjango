@@ -1,0 +1,13 @@
+assistance
+configure
+configure pingid
+conne
+outlook
+outlook prompt
+ping
+ping configure
+pingid
+pingid ping
+prompt
+require
+require configure

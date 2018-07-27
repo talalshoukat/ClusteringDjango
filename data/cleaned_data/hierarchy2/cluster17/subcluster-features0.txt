@@ -1,0 +1,8 @@
+configure
+configure pingid
+device
+mobile
+mobile device
+pingid
+pingid device
+pingid mobile

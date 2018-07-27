@@ -1,0 +1,13 @@
+attach
+attach mail
+email
+email work
+exterl
+exterl email
+mail
+onedrive
+onedrive share
+share
+share exterl
+work
+work attach

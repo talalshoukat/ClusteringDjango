@@ -1,0 +1,9 @@
+device
+device pingid
+pair
+pair device
+pair pingid
+pingid
+pingid pair
+remove
+remove pingid

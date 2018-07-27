@@ -1,0 +1,11 @@
+account
+device
+key
+new
+pair
+pair key
+pair pingid
+pingid
+pingid reset
+reset
+reset pair

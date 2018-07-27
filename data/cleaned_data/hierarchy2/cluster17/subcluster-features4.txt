@@ -1,0 +1,11 @@
+configure
+configure pingid
+configure setup
+ping
+ping setup
+pingid
+pingid ping
+pingid setup
+setup
+setup configure
+setup pingid

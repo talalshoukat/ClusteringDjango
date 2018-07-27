@@ -1,0 +1,10 @@
+'INC0420238',
+'INC0424987',
+'INC0438823',
+'INC0482517',
+'INC0543236',
+'INC0750186',
+
+Steps to unpair devices from PingId
+
+Steps to setup PingID on PC and Mobile

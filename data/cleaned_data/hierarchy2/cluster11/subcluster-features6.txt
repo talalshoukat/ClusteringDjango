@@ -1,0 +1,6 @@
+device
+new
+pingid
+reset
+reset pingid
+set

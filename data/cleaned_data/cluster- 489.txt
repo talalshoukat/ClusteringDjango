@@ -1,0 +1,15 @@
+'INC0621371',
+'INC0697076',
+'INC0713679',
+'INC0765447',
+
+
+PingID reset steps
+
+Install PingID app from eSupport. In case it is not available there, please go to ping.pg.com and download PingID app from there.
+
+Add Steps to setup PingID on PC and Mobile
+
+Steps to set a device as primary device
+
+NOTE: A K1 Liscence is required for PingID, please contact your manager in case that is not available.

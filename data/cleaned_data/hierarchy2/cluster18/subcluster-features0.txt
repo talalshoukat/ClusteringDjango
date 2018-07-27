@@ -1,0 +1,7 @@
+correly
+device
+device correly
+pair
+pair device
+pingid
+pingid pair

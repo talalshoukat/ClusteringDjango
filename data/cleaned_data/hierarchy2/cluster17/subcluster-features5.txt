@@ -1,0 +1,5 @@
+configure
+configure pingid
+new
+pingid
+pingid configure

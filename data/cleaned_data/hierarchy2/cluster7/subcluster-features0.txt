@@ -1,0 +1,5 @@
+dj8465
+pingid
+pingid dj8465
+reset
+reset pingid

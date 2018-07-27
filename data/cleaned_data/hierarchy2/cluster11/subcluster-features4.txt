@@ -1,0 +1,7 @@
+key
+pair
+pair key
+pingid
+pingid pair
+reset
+reset pingid

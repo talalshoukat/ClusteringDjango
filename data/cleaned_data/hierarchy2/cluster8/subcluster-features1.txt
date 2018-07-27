@@ -1,0 +1,7 @@
+pingid
+pingid reset
+reset
+reset share
+share
+share workstation
+workstation

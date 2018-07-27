@@ -1,0 +1,9 @@
+hello
+hello pls
+help
+help reset
+pingid
+pls
+pls help
+reset
+reset pingid

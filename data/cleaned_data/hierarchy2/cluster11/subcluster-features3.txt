@@ -1,0 +1,11 @@
+local
+pingid
+pingid request
+pingid reset
+request
+request pingid
+request reset
+reset
+reset pingid
+reset request
+unpair

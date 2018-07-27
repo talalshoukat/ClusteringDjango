@@ -1,0 +1,14 @@
+assistance
+device
+device pingid
+ltop
+new
+new device
+new ltop
+pair
+pair new
+pair pingid
+phone
+pingid
+pingid new
+pingid pair

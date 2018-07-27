@@ -1,0 +1,9 @@
+configure pingid delete device
+configure pingid mobile device
+configure pingid mobile device
+configure pingid device
+configure pingid mobile device
+configure pingid mobile device
+cannot configure pingid change movile device
+configure pingid device get reformatted
+configure pingid 2nd device

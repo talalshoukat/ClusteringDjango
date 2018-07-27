@@ -1,0 +1,4 @@
+pingid
+pingid setup
+setup
+setup pingid

@@ -1,0 +1,8 @@
+account
+account reset
+pingid
+pingid account
+pingid pingid
+pingid reset
+reset
+reset pingid

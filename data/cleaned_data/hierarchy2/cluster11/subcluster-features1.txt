@@ -1,0 +1,11 @@
+item
+pingid
+pingid set
+pingid setup
+request
+request reset
+reset
+reset pingid
+set
+set item
+setup

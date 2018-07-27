@@ -1,0 +1,7 @@
+ask
+ask reset
+pingid
+reset
+reset ask
+reset pingid
+reset reset

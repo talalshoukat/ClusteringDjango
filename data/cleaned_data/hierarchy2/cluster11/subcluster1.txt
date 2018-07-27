@@ -1,0 +1,2 @@
+request reset pingid set item
+request reset pingid setup

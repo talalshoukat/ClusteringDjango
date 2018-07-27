@@ -336,16 +336,6 @@ def save_average_hierarchy(clusters, incidents, cleaned_content_as_str) :
 
 
 
-
-
-
-
-
-
-
-
-
-
 def generateCorpus(cluster_incident_description):
     tokenizer = RegexpTokenizer(r'\w+')
     # load nltk's English stopwords as variable called 'stopwords'

@@ -1,0 +1,4 @@
+pingid
+pingid reset
+reset
+reset pingid

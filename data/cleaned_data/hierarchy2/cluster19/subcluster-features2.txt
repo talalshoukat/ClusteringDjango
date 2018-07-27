@@ -1,0 +1,6 @@
+account
+configure
+configure pingid
+pingid
+pingid account
+pingid configure

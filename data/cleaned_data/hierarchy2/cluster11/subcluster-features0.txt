@@ -1,0 +1,5 @@
+pingid
+request
+request reset
+reset
+reset pingid

@@ -39,7 +39,8 @@ def Train(request):
 
         [assignemnts, clusters] = ward_dendogram(similarity_matrix, incidents)
         id,il=save_json_hierarchy(clusters, incidents, content_as_str)
-        json.dumps(doc, default=ComplexHandler)
+        #tree generated using incidents is converted into json object
+        json.dumps(il, default=ComplexHandler)
         save_ward_hierarchy(clusters, incidents, content_as_str)
         [assignemnts, clusters] = single_dendogram(similarity_matrix, incidents)
         save_single_hierarchy(clusters, incidents, content_as_str)

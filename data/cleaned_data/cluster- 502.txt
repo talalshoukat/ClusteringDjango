@@ -1,0 +1,13 @@
+'INC0370893',
+'INC0512125',
+'INC0558414',
+'INC0576372',
+'INC0576396',
+'INC0576410',
+'INC0753831',
+'INC0753995',
+'INC0756776',
+
+Steps to remove old/lost devices from PingID
+
+Steps for PingID configuration
